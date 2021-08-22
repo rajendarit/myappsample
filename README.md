@@ -1,1 +1,2 @@
 # myappsample
+var  = 1
